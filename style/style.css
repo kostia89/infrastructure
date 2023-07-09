@@ -207,7 +207,7 @@
 }
 .third-heder {
   display: flex;
-  width: 90px;
+  width: 90vw;
   margin: 0 auto;
   justify-content: space-between;
   margin-bottom: 72px;
@@ -221,7 +221,7 @@
   color: #ffffff;
 }
 .third-bg-cards {
-  width: 90px;
+  width: 90vw;
   margin: 0 auto;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
